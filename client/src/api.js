@@ -2,7 +2,7 @@
 import axios from 'axios';
 
 // base url of backend
-const API_URL = 'http://localhost:5000/api';
+const API_URL = 'http://localhost:5001/api';
 
 // this function add token to headers automatically
 const getHeaders = () => {
